@@ -1,0 +1,7 @@
+C:\Users\ssq\source\repos\chats\chats\bin\Debug\chats.dll.config
+C:\Users\ssq\source\repos\chats\chats\bin\Debug\chats.dll
+C:\Users\ssq\source\repos\chats\chats\bin\Debug\chats.pdb
+C:\Users\ssq\source\repos\chats\chats\obj\Debug\chats.csproj.AssemblyReference.cache
+C:\Users\ssq\source\repos\chats\chats\obj\Debug\chats.csproj.CoreCompileInputs.cache
+C:\Users\ssq\source\repos\chats\chats\obj\Debug\chats.dll
+C:\Users\ssq\source\repos\chats\chats\obj\Debug\chats.pdb
